@@ -39,5 +39,18 @@
     "webpack-dev-middleware": "^1.6.1",
     "webpack-dev-server": "^1.14.1",
     "webpack-hot-middleware": "^2.12.0"
+  },
+  "dependencies": {
+    "axios": "^0.12.0",
+    "font-awesome": "^4.6.3",
+    "foundation-sites": "^6.2.3",
+    "promises": "^0.2.5",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.5.2",
+    "react-router-redux": "^4.0.5",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1"
   }
 }
